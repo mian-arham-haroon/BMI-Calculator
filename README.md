@@ -37,7 +37,7 @@ Place them in a `/screenshots/` folder and reference them here like:
 
 ## 🧰 Requirements
 
-Install the required libraries:
+Install the required librarie:
 
 ```bash
 pip install tkinter pillow
