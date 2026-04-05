@@ -32,12 +32,12 @@ This project is great for beginners and covers:
 ## 🖼️ Screenshots
 
 Add screenshots of your app here, e.g., showing the sliders and BMI result area.  
-Place them in a `/screenshots/` folder and reference them here like:
+Place them in a `/screenshots/` folder and references them here like:
 ![BMI Calculator Screenshot](ss.png)
 
 ## 🧰 Requirements
 
-Install the required libraries:
+Install the required librarie:
 
 ```bash
 pip install tkinter pillow
