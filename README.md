@@ -2,7 +2,7 @@
 
 The BMI Calculator App is a user-friendly Python-based GUI application built using Tkinter 🐍. It allows users to calculate their Body Mass Index (BMI) 🧍‍♂️🧍‍♀️ by entering their height (in centimeters 📏) and weight (in kilograms ⚖️) using interactive sliders 🎚️. The app features real-time updates, intuitive visuals, and categorized health feedback.
 
-## 🚀 Features
+## 🚀 Features:
 
 - **🖥️ Graphical Interface with Tkinter**  
     Clean and modern interface built with Tkinter.
